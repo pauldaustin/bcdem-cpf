@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ca.bc.gov.open.cpf.plugins.maptile","l":"MapTileByLocation"},{"p":"ca.bc.gov.open.cpf.plugins.maptile","l":"MapTileByTileId"}]
